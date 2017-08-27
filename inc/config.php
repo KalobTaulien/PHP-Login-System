@@ -9,4 +9,9 @@
 	// Our config is below
 
 
+	// Include the DB.php file;
+	include_once "classes/DB.php";
+
+	$con = DB::getConnection();
+
 ?>
