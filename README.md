@@ -9,7 +9,7 @@ In this course we're creating a Login and Registration system using:
 
 # Where to get this course:
   - [Arkmont.com/create-php-and-ajax-login-registration-system](https://arkmont.com/create-php-and-ajax-login-registration-system) (free)
-  - Skillshare (coming soon)
+  - [Skillshare](http://skl.sh/2vVmaHw)
   - Udemy (coming soon)
   - YouTube (undecided)
 
