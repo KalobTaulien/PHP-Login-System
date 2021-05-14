@@ -1,5 +1,5 @@
 $(document)
-.on("submit", "form.js-register, form.js-login", function(event) {
+.on("submit", "form.js-register", function(event) {
 	event.preventDefault();
 
 	var _form = $(this);
